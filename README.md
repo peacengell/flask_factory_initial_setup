@@ -4,4 +4,4 @@
 flask_factory_initial_setup for starting new flask project
 
 How to clone it:
-#### git clone git@github.com:peacengell/flask_factory_initial_setup.git  NewFlaskApp
+#### git clone git@github.com:peacengell/flask_factory_initial_setup.git  [ NewFlaskApp ] Give it anyname you want.
