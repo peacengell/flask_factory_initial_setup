@@ -1,0 +1,2 @@
+# flask_factory_initial_setup
+flask_factory_initial_setup for starting new flask project
