@@ -1,0 +1,1 @@
+SECRET_KEY = 'You-need-to-change-this-key'
